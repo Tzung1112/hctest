@@ -25,7 +25,7 @@ export default function Modals(props) {
     const handleEditChange = (e) => setEditTitle(e.target.value);
     const handleSelectValue = (e) => setSelectValue(e.target.value);
     const uphhh = () => {
-        toast.success("This is a update toast!", {
+        toast.success("Cập Nhật Thành Công!", {
             position: "top-center",
         });
     };

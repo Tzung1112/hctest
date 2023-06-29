@@ -13,7 +13,7 @@ function BodyOnlyExample() {
     const list = useSelector((state) => state.list);
     const dispatch = useDispatch();
      const detetehhh = () => {
-         toast.success("This is a delete toast!", {
+         toast.success("Cập Nhật Thành Công!", {
              position: "top-center",
          });
      };

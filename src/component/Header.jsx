@@ -47,7 +47,7 @@ function Example() {
 
     }
   const addhhh = () => {
-      toast.success("This is a add toast!", {
+      toast.success("Cập Nhật Thành Công!", {
           position: "top-center",
       });
   };
